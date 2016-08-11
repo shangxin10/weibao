@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="8708471434125" >
+
+    <task
+        name="javac"
+        duration="10465" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3494" />
+    <task
+        name="verifier"
+        duration="2235" />
+
+    <artifact
+        location="F:\Android studio\workspace\weibao\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8708471434125" >
+        <artifact
+            location="F:\Android studio\workspace\weibao\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

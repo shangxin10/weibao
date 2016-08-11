@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        applicationId "com.handsome.qhb"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0.2"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    sourceSets {
+        main {
+//            manifest.srcFile 'AndroidManifest.xml'
+//            java.srcDirs = ['src']
+//            resources.srcDirs = ['src']
+//            aidl.srcDirs = ['src']
+//            renderscript.srcDirs = ['src']
+//            res.srcDirs = ['res']
+//            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ['libs']//这一行是没有的，如果我们有.so文件就需要加上这一行代码
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile files('libs/Volley.jar')
+    compile 'com.squareup.okhttp:okhttp:2.0.0'
+    compile 'com.zhy:autolayout:1.4.3'
+    compile files('libs/android-support-v4.jar')
+    compile 'com.android.support:support-v4:23.1.1'
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile files('libs/android-async-http-1.4.6.jar')
+    compile files('libs/jg_filter_sdk_1.1.jar')
+    compile files('libs/wup-1.0.0.E-SNAPSHOT.jar')
+    compile files('libs/Xg_sdk_v2.42_20160111_1539.jar')
+    compile files('libs/picasso-2.5.2.jar')
+    androidTestCompile 'junit:junit:4.12'
+    compile files('libs/tbs_sdk_v1.5.1.1057_25436_obfs_20160331_144900.jar')
+}

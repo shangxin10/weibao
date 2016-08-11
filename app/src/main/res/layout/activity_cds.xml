@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y30"
+        android:background="#000000">
+        <LinearLayout
+            android:id="@+id/ll_back"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/y30"
+
+            android:layout_alignParentLeft="true">
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="@dimen/x16"
+                android:layout_marginRight="@dimen/x10"
+                android:layout_marginLeft="@dimen/x10"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:background="@mipmap/zf_back_btn"
+                android:clickable="false"
+                ></ImageButton>
+        </LinearLayout>
+
+
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_toRightOf="@+id/ll_back"
+            android:layout_marginLeft="@dimen/x4"
+            android:gravity="center_vertical|left"
+            android:text="@string/tx_cds_bonus"
+            android:textSize="@dimen/x16"
+            android:textColor="#ffffff"
+            />
+    </RelativeLayout>
+    <TextView
+    android:id="@+id/tv_Btime"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="00:00"
+    android:textSize="@dimen/x38"
+    android:textStyle="bold"
+    android:layout_gravity="center"
+    android:layout_marginTop="@dimen/y35"
+    >
+
+</TextView>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/y18"
+        android:layout_marginLeft="@dimen/x35">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/x15"
+            android:text="竞猜金额 : ">
+        </TextView>
+        <TextView
+            android:id="@+id/tv_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/x15"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/y10"
+        android:layout_marginLeft="@dimen/x35">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/x15"
+            android:text="当前竞猜人数 : ">
+        </TextView>
+        <TextView
+            android:id="@+id/tv_person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/x15"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/y10"
+        android:layout_marginLeft="@dimen/x35">
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/x15"
+            android:text="时间 : ">
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/x15"
+            android:text=""/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_myguess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/y10"
+        android:layout_marginLeft="@dimen/x35"
+        android:visibility="gone">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/x15"
+        android:text="我的竞猜 : ">
+    </TextView>
+    <TextView
+        android:id="@+id/tv_guess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/x15"
+        android:text="双"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_guess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/y35"
+        android:layout_gravity="center">
+        <TextView
+            android:id="@+id/tv_single"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/x35"
+            android:clickable="true"
+            android:textSize="@dimen/x40"
+            android:textColor="#4b67e6"
+            android:textStyle="bold"
+            android:text="单">
+        </TextView>
+        <TextView
+            android:id="@+id/tv_double"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textSize="@dimen/x40"
+            android:textColor="#4b67e6"
+            android:textStyle="bold"
+            android:text="双"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/x35"
+            android:textSize="@dimen/x15"
+            android:text="竞猜结果 : ">
+        </TextView>
+        <TextView
+
+            android:id="@+id/tv_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/y35"
+            android:layout_gravity="center"
+            android:textSize="@dimen/x40"
+            android:textStyle="bold"
+            android:text="单"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

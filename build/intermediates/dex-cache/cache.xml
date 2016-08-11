@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android studio\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_e2b96f0059fa9d83cf30e0ce9f016dc15c3dd457\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\tbs_sdk_v1.5.1.1057_25436_obfs_20160331_144900.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6a7806615c4331f0b66340979f3ccbfc5c02cef8">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\tbs_sdk_v1.5.1.1057_25436_obfs_20160331_144900_21a5e9525520e97ef7d0f749035438785857b307\classes.dex" />
+    </item>
+    <item
+        jar="D:\android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_ced77ee06cd64ea4c0b29256b21a71ca0905700d\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_b772e3ffd155fa915c0fbbea0227fd5d612b12a2\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\Volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2dd908289a096a92b5f266cefb6c1bda32762cef">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_6350c9289939a9daca5faf66018143263afdfd52\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7329492e76650ee661f6af7704b0c79151d8e1ef">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_9999086db71944f02a9305d959b0e5d23a639ac0\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_de7fa43390ccc89853d7c9fe5b49abb701e93fff\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_7b99e4ea8652743064c14e81f5dc6856d94a1877\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_1196f6d37b7b844b95abfc18e7d777583ab8a6e5\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\Xg_sdk_v2.42_20160111_1539.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4735ec4caebc2db6cc5069a21f3c00e9e043f5f6">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\Xg_sdk_v2.42_20160111_1539_045fcb68b6d1178261cebec7c7e4f7ba78025433\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\jg_filter_sdk_1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\jg_filter_sdk_1.1_cdd375eff6bb378e3ba6a3a7542a78b24998f358\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_51bbadcfba91fc3c2a21e9aad1665cc190ba7fdd\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="723995d18559b5c1c32889aa05bebb6d8ffee267">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_48b2def2a2835cb606675b2b833bdc4010d3d823\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.0.0_1ccb200cdf0cd5e5078d9083f670cf8f38a059d4\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\autolayout.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d84c5d3ad917ea9b043f57bd6596d5d6e486f4d6">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\autolayout_4035e9b12c7a1e7af32688c4fb3dd7b18eaebe03\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\libs\wup-1.0.0.E-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d5a0917f8418b3726f89ae120182dfb6b884740d">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\2\wup-1.0.0.E-SNAPSHOT_03dde9a4322c1e3c50d1c7951cc7f6ea1c5342a7\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0a3e536814892efea47d089ec6485339baa2c263">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b7725cc0208c03468e6602b6b6e1ceeb7f90acaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\zhang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.0_5594ac96d00bf2ed96cc11632dffcc34ebb961fc\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="911eeaf6f474e74b7dbd9fa7f19aa56715a344ae">
+        <dex dex="F:\Android studio\workspace\weibao\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-autolayout-1.4.3_8bb9e9947a8c33dbdc683f8edfe94801760892eb\classes.dex" />
+    </item>
+
+</items>

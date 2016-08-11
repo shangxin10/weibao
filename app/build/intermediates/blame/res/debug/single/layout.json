@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_list_items.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\order_list_items.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_page3.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\viewpager_page3.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_manage_top_bar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\address_manage_top_bar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_header.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonus_from_msg.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\bonus_from_msg.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shop.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\fragment_shop.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_add_top_bar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\address_add_top_bar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gwc.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_gwc.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_send_msg.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\chat_send_msg.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_page2.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\viewpager_page2.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_details.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_from_msg.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\chat_from_msg.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_splitline.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\include_splitline.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonus_send_msg.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\bonus_send_msg.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_photo.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_update_photo.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hall.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\fragment_hall.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update_data_top_bar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\update_data_top_bar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gwc_list_items.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\gwc_list_items.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_password.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_update_password.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_data.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_update_data.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\room_list_items.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\room_list_items.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_list_items.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\address_list_items.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\room_top_bar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\room_top_bar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addmoney.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_addmoney.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shop_top_bar.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\shop_top_bar.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_user.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\fragment_user.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_page1.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\viewpager_page1.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cds.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_cds.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bonus.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_bonus.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_manager.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\activity_address_manager.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_list_items.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\product_list_items.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bonus_list_items.xml",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\layout\\bonus_list_items.xml"
+    }
+]

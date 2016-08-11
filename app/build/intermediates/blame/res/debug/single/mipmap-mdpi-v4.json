@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\test_icon.jpg",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\mipmap-mdpi\\test_icon.jpg"
+    },
+    {
+        "merged": "F:\\Android studio\\workspace\\weibao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android studio\\workspace\\weibao\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

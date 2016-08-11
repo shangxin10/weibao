@@ -1,0 +1,347 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:4:5-74
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:4:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CAMERA
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:22:5-84
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:22:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:27:22-65
+uses-permission#android.permission.BATTERY_STATS
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:28:5-72
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:28:22-69
+application
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:32:5-153:19
+MERGED from [com.zhy:autolayout:1.4.3] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.3\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:36:9-41
+	android:allowBackup
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:37:9-36
+	android:theme
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:35:9-40
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:33:9-66
+activity#com.handsome.qhb.ui.activity.MainActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:38:9-48:20
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:39:13-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.handsome.qhb.ui.activity.LoginActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:label
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:51:13-57
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:50:13-70
+activity#com.handsome.qhb.ui.activity.RegisterActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:54:9-55:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:54:19-79
+activity#com.handsome.qhb.ui.activity.GwcActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:56:9-57:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:56:19-74
+activity#com.handsome.qhb.ui.activity.OrderActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:58:9-59:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:58:19-76
+activity#com.handsome.qhb.ui.activity.AddressActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:60:9-61:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:60:19-78
+activity#com.handsome.qhb.ui.activity.AddressManagerActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:62:9-63:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:62:19-85
+activity#com.handsome.qhb.ui.activity.UpdateDataActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:64:9-65:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:64:19-81
+activity#com.handsome.qhb.ui.activity.OrderDetailActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:66:9-67:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:66:19-82
+activity#com.handsome.qhb.ui.activity.UpdatePasswordActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:68:9-69:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:69:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:68:19-85
+activity#com.handsome.qhb.ui.activity.UpdatePhotoActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:70:9-71:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:71:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:70:19-82
+activity#com.handsome.qhb.ui.activity.CDSActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:72:9-73:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:72:19-74
+activity#com.handsome.qhb.ui.activity.ChatActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:74:9-75:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:74:19-75
+activity#com.handsome.qhb.ui.activity.BonusActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:76:9-77:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:76:19-76
+activity#com.handsome.qhb.ui.activity.AddMoneyActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:78:9-79:61
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:78:19-79
+activity#com.handsome.qhb.ui.activity.IndexActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:80:9-82:20
+	android:screenOrientation
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:80:19-76
+activity#com.handsome.qhb.ui.activity.WelcomeActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:83:9-85:20
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:83:19-78
+receiver#com.tencent.android.tpush.XGPushReceiver
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:87:9-103:20
+	android:process
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:89:13-45
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:88:13-68
+intent-filter#android.bluetooth.adapter.action.STATE_CHANGED+android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE+com.tencent.android.tpush.action.SDK
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:90:13-102:29
+	android:priority
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:90:28-57
+action#com.tencent.android.tpush.action.SDK
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:92:17-79
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:92:25-76
+action#com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:93:17-97
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:93:25-94
+action#android.intent.action.USER_PRESENT
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:95:17-77
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:95:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:96:25-76
+action#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:99:17-89
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:99:25-86
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:100:17-87
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:100:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:101:17-90
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:101:25-87
+receiver#com.handsome.qhb.receiver.MessageReceiver
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:107:9-114:20
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:107:19-75
+intent-filter#com.tencent.android.tpush.action.FEEDBACK+com.tencent.android.tpush.action.PUSH_MESSAGE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:108:13-113:29
+action#com.tencent.android.tpush.action.PUSH_MESSAGE
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:110:17-88
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:110:25-85
+action#com.tencent.android.tpush.action.FEEDBACK
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:112:17-84
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:112:25-81
+activity#com.tencent.android.tpush.XGPushActivity
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:117:9-124:20
+	android:exported
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:119:13-36
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:118:13-68
+intent-filter#android.intent.action
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:120:13-123:29
+action#android.intent.action
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:122:17-64
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:122:25-61
+service#com.tencent.android.tpush.service.XGPushService
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:127:9-131:48
+	android:process
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:131:13-45
+	android:exported
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:129:13-36
+	android:persistent
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:130:13-38
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:128:13-75
+service#com.tencent.android.tpush.rpc.XGRemoteService
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:134:9-140:19
+	android:exported
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:136:13-36
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:135:13-73
+intent-filter#com.handsome.qhb.PUSH_ACTION
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:137:13-139:29
+action#com.handsome.qhb.PUSH_ACTION
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:138:17-71
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:138:25-68
+meta-data#XG_V2_ACCESS_ID
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:143:9-145:42
+	android:value
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:145:13-39
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:144:13-43
+meta-data#XG_V2_ACCESS_KEY
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:147:9-149:44
+	android:value
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:149:13-41
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:148:13-44
+meta-data#design_width
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:151:9-80
+	android:value
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:151:48-67
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:151:20-47
+meta-data#design_height
+ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:152:9-82
+	android:value
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:152:49-69
+	android:name
+		ADDED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml:152:20-48
+uses-sdk
+INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.zhy:autolayout:1.4.3] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.zhy\autolayout\1.4.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] F:\Android studio\workspace\weibao\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android studio\workspace\weibao\app\src\main\AndroidManifest.xml

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y30"
+        android:background="#363636">
+        <LinearLayout
+            android:id="@+id/ll_back"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/y30"
+
+            android:layout_alignParentLeft="true">
+            <ImageButton
+                android:layout_height="wrap_content"
+                android:layout_width="@dimen/x16"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/x10"
+                android:layout_marginRight="@dimen/x10"
+                android:background="@mipmap/zf_back_btn"
+                android:clickable="false"
+                ></ImageButton>
+        </LinearLayout>
+        <TextView
+
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/ll_back"
+            android:layout_marginLeft="@dimen/x1"
+            android:gravity="center_vertical|center"
+            android:text="@string/tx_user_info"
+            android:textSize="@dimen/x16"
+            android:textColor="#ffffff"
+            />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_toRightOf="@+id/ll_back"
+            android:layout_marginLeft="@dimen/x1"
+            android:gravity="center_vertical|center"
+            android:text="@string/tx_user_photo"
+            android:textSize="@dimen/x16"
+            android:textColor="#ffffff"
+            />
+
+        <ImageButton
+            android:id="@+id/ib_photo_menu"
+            android:layout_height="wrap_content"
+            android:layout_width="@dimen/x20"
+            android:scaleType="fitXY"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/x8"
+            android:background="@mipmap/ic_launcher"
+            >
+        </ImageButton>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/iv_user_photo"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y300"
+        android:layout_centerInParent="true"
+        android:scaleType="fitXY"
+        android:background="#ffffff"
+        />
+    </RelativeLayout>
+</LinearLayout>
